@@ -16,6 +16,9 @@ To use this application, navigate to the root directory of the cloned repository
 
 You will then be prompted with a series of questions about your project. Once you have answered all the questions, a README file will be generated in the root directory of the repository.
 
+## Demo
+[Untitled_ Apr 11, 2023 2_24 AM.webm](https://user-images.githubusercontent.com/122307878/231087119-a053e0a4-c243-4a82-8a58-2875b98c526e.webm)
+
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
